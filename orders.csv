@@ -1,0 +1,201 @@
+﻿order_id,customer_id,order_date,region,payment_mode
+1,38,9/28/2023,West,Debit Card
+2,24,2/23/2023,South,Debit Card
+3,5,4/11/2023,North,Cash on Delivery
+4,34,9/21/2023,South,Credit Card
+5,6,2/22/2023,East,Credit Card
+6,22,3/1/2023,South,Debit Card
+7,11,4/18/2023,South,Credit Card
+8,48,1/5/2023,North,Debit Card
+9,16,4/13/2023,North,Credit Card
+10,33,7/15/2023,North,Cash on Delivery
+11,9,9/19/2023,South,Credit Card
+12,6,12/31/2023,East,Credit Card
+13,16,12/16/2023,West,Bank Transfer
+14,29,2/16/2023,West,Debit Card
+15,3,12/21/2023,North,Credit Card
+16,20,11/7/2023,North,Credit Card
+17,36,11/4/2023,South,Bank Transfer
+18,19,5/24/2023,West,Bank Transfer
+19,26,9/26/2023,North,Debit Card
+20,3,5/4/2023,East,Bank Transfer
+21,19,4/16/2023,East,Cash on Delivery
+22,20,6/7/2023,North,Bank Transfer
+23,32,5/27/2023,North,Cash on Delivery
+24,7,5/25/2023,West,Debit Card
+25,41,4/30/2023,West,Debit Card
+26,33,11/15/2023,South,Debit Card
+27,40,10/2/2023,West,Debit Card
+28,39,4/2/2023,East,Debit Card
+29,18,2/27/2023,East,Cash on Delivery
+30,40,12/12/2023,North,Cash on Delivery
+31,1,8/17/2023,West,Debit Card
+32,11,4/27/2023,South,Bank Transfer
+33,28,11/14/2023,East,Credit Card
+34,25,10/6/2023,East,Debit Card
+35,50,5/7/2023,South,Bank Transfer
+36,23,5/9/2023,South,Credit Card
+37,31,2/27/2023,East,Debit Card
+38,30,5/2/2023,East,Debit Card
+39,42,1/1/2023,South,Cash on Delivery
+40,35,8/27/2023,East,Credit Card
+41,7,10/17/2023,North,Credit Card
+42,16,4/6/2023,North,Bank Transfer
+43,26,5/6/2023,South,Cash on Delivery
+44,48,4/28/2023,West,Cash on Delivery
+45,49,2/17/2023,South,Cash on Delivery
+46,2,3/30/2023,South,Cash on Delivery
+47,1,8/25/2023,West,Credit Card
+48,48,9/29/2023,West,Credit Card
+49,12,7/8/2023,West,Debit Card
+50,5,7/11/2023,North,Debit Card
+51,37,3/10/2023,East,Cash on Delivery
+52,32,10/5/2023,North,Cash on Delivery
+53,9,12/15/2023,East,Cash on Delivery
+54,41,9/4/2023,North,Debit Card
+55,35,3/17/2023,East,Bank Transfer
+56,19,6/3/2023,North,Bank Transfer
+57,48,5/24/2023,West,Debit Card
+58,16,3/27/2023,South,Debit Card
+59,3,7/4/2023,North,Debit Card
+60,20,10/12/2023,East,Debit Card
+61,24,8/8/2023,West,Debit Card
+62,33,3/10/2023,North,Debit Card
+63,24,2/16/2023,North,Cash on Delivery
+64,11,4/4/2023,West,Cash on Delivery
+65,49,8/26/2023,North,Cash on Delivery
+66,8,7/23/2023,South,Cash on Delivery
+67,36,8/6/2023,North,Debit Card
+68,38,12/7/2023,South,Bank Transfer
+69,40,2/8/2023,South,Credit Card
+70,20,4/10/2023,West,Debit Card
+71,35,10/16/2023,North,Credit Card
+72,48,9/11/2023,West,Bank Transfer
+73,25,8/10/2023,North,Cash on Delivery
+74,35,12/23/2023,North,Bank Transfer
+75,25,1/23/2023,East,Debit Card
+76,29,9/7/2023,North,Cash on Delivery
+77,18,1/10/2023,West,Debit Card
+78,46,9/3/2023,South,Cash on Delivery
+79,18,11/21/2023,North,Credit Card
+80,2,4/10/2023,East,Credit Card
+81,35,10/17/2023,West,Credit Card
+82,16,6/29/2023,North,Bank Transfer
+83,41,8/11/2023,West,Debit Card
+84,36,9/7/2023,East,Bank Transfer
+85,33,5/27/2023,East,Credit Card
+86,4,4/6/2023,West,Debit Card
+87,33,9/14/2023,North,Credit Card
+88,14,11/21/2023,South,Bank Transfer
+89,21,1/4/2023,East,Bank Transfer
+90,48,1/16/2023,North,Bank Transfer
+91,20,10/7/2023,North,Credit Card
+92,8,12/2/2023,South,Debit Card
+93,7,9/4/2023,East,Debit Card
+94,3,9/15/2023,East,Credit Card
+95,17,6/9/2023,North,Debit Card
+96,33,12/6/2023,North,Credit Card
+97,48,6/1/2023,South,Debit Card
+98,12,6/27/2023,South,Cash on Delivery
+99,22,6/12/2023,East,Cash on Delivery
+100,22,2/2/2023,West,Bank Transfer
+101,46,6/28/2023,East,Cash on Delivery
+102,30,4/11/2023,North,Cash on Delivery
+103,38,9/25/2023,East,Cash on Delivery
+104,38,11/19/2023,West,Credit Card
+105,45,3/6/2023,South,Cash on Delivery
+106,8,6/17/2023,West,Cash on Delivery
+107,27,11/26/2023,West,Bank Transfer
+108,27,2/12/2023,West,Cash on Delivery
+109,34,2/13/2023,South,Cash on Delivery
+110,21,10/12/2023,West,Debit Card
+111,30,1/12/2023,West,Bank Transfer
+112,33,4/5/2023,West,Bank Transfer
+113,28,10/29/2023,North,Bank Transfer
+114,47,9/10/2023,West,Bank Transfer
+115,33,8/30/2023,South,Bank Transfer
+116,5,2/4/2023,West,Bank Transfer
+117,48,8/3/2023,West,Credit Card
+118,19,12/3/2023,South,Cash on Delivery
+119,4,3/31/2023,West,Bank Transfer
+120,35,9/21/2023,South,Cash on Delivery
+121,49,4/3/2023,West,Cash on Delivery
+122,17,3/31/2023,South,Credit Card
+123,44,4/25/2023,West,Bank Transfer
+124,28,4/15/2023,West,Debit Card
+125,30,7/15/2023,North,Credit Card
+126,29,11/10/2023,North,Debit Card
+127,46,4/24/2023,West,Cash on Delivery
+128,6,3/16/2023,West,Cash on Delivery
+129,35,8/5/2023,East,Credit Card
+130,41,10/4/2023,South,Credit Card
+131,37,9/6/2023,East,Debit Card
+132,24,6/13/2023,North,Bank Transfer
+133,29,12/23/2023,North,Debit Card
+134,49,7/11/2023,North,Credit Card
+135,46,8/15/2023,North,Debit Card
+136,31,6/26/2023,West,Credit Card
+137,35,4/9/2023,North,Debit Card
+138,33,2/5/2023,West,Credit Card
+139,21,4/6/2023,West,Credit Card
+140,32,6/1/2023,North,Credit Card
+141,23,5/31/2023,North,Bank Transfer
+142,33,7/9/2023,South,Debit Card
+143,3,8/12/2023,East,Debit Card
+144,18,2/6/2023,North,Debit Card
+145,25,9/25/2023,South,Credit Card
+146,42,7/2/2023,South,Debit Card
+147,31,1/13/2023,East,Debit Card
+148,3,10/6/2023,West,Credit Card
+149,40,8/5/2023,North,Cash on Delivery
+150,46,12/21/2023,East,Credit Card
+151,24,12/27/2023,North,Debit Card
+152,50,10/13/2023,South,Credit Card
+153,32,9/30/2023,South,Cash on Delivery
+154,47,3/3/2023,West,Credit Card
+155,22,3/25/2023,South,Debit Card
+156,23,8/5/2023,South,Cash on Delivery
+157,2,12/8/2023,East,Bank Transfer
+158,27,7/6/2023,North,Debit Card
+159,42,1/19/2023,North,Cash on Delivery
+160,2,6/26/2023,East,Cash on Delivery
+161,26,4/10/2023,West,Bank Transfer
+162,17,8/21/2023,North,Credit Card
+163,40,3/17/2023,South,Credit Card
+164,33,9/22/2023,North,Debit Card
+165,9,10/11/2023,South,Bank Transfer
+166,43,7/25/2023,West,Credit Card
+167,48,8/11/2023,East,Bank Transfer
+168,39,2/21/2023,North,Credit Card
+169,29,12/5/2023,East,Cash on Delivery
+170,42,5/24/2023,North,Credit Card
+171,26,3/10/2023,South,Bank Transfer
+172,35,4/9/2023,East,Cash on Delivery
+173,50,1/25/2023,North,Cash on Delivery
+174,25,2/22/2023,South,Cash on Delivery
+175,24,5/31/2023,East,Bank Transfer
+176,13,5/24/2023,East,Debit Card
+177,7,2/26/2023,North,Debit Card
+178,36,2/8/2023,North,Debit Card
+179,45,4/19/2023,North,Bank Transfer
+180,20,6/30/2023,South,Cash on Delivery
+181,1,2/11/2023,North,Debit Card
+182,8,7/5/2023,East,Bank Transfer
+183,46,8/11/2023,East,Debit Card
+184,16,5/2/2023,North,Credit Card
+185,14,5/13/2023,North,Debit Card
+186,12,6/12/2023,West,Debit Card
+187,23,8/3/2023,East,Cash on Delivery
+188,15,8/9/2023,South,Bank Transfer
+189,28,8/23/2023,West,Cash on Delivery
+190,34,11/27/2023,North,Cash on Delivery
+191,2,5/26/2023,North,Cash on Delivery
+192,32,8/27/2023,East,Cash on Delivery
+193,23,3/17/2023,North,Cash on Delivery
+194,22,1/9/2023,South,Debit Card
+195,25,3/15/2023,East,Cash on Delivery
+196,22,9/10/2023,North,Cash on Delivery
+197,22,8/18/2023,East,Bank Transfer
+198,49,1/7/2023,North,Credit Card
+199,42,6/23/2023,North,Debit Card
+200,6,5/21/2023,North,Debit Card
